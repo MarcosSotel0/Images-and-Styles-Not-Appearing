@@ -1,0 +1,25 @@
+.section {
+    background-color: lemonchiffon;
+}
+
+.headers {
+    color: darkblue;
+}
+
+#email {
+    background-color: goldenrod;
+}
+
+#github {
+    background-color: lightsteelblue
+}
+
+#portfolio {
+    background-color: darkorange;
+}
+#perdonal_information{
+    background-color: rgba(250, 250, 153, 0.733);
+}
+h1{
+    color: rgb(24, 24, 134);
+}
